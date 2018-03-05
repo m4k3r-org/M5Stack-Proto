@@ -5,8 +5,10 @@ The prototyping board allows through hole connections to the header and therefor
 
 Note: The tracks used are undersized in order to pass between the header pads and therefore not recommended for production use.
 
+
 EasyEDA
 For those who use the online EasyEDA designer the project can be found at https://easyeda.com/zazarltd
+
 
 
 Files Included:
